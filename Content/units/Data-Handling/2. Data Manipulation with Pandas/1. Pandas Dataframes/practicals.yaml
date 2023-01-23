@@ -12,5 +12,5 @@
     1. Download the dataset from the this [URL](https://aicore-files.s3.amazonaws.com/Foundations/Data_Formats/Salaries.csv)
     2. Use the Salaries.csv file calculate:
     3. What is the ratio between people in the fire department over people in the police department
-    4. What is the mean salary of the police department? Use the "BaseSalary" column.
-    5. What is the mean salary of the fire department? Use the "BaseSalary" column.
+    4. What is the mean salary of the police department? Use the "BasePay" column.
+    5. What is the mean salary of the fire department? Use the "BasePay" column.
