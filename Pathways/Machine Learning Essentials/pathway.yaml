@@ -1,4 +1,3 @@
-name: Machine Learning Essentials
 id: 7f3d1ca1-7ef9-468e-9c37-5ab646deea1c
 target_lessons:
 - name: K-means clustering
@@ -18,10 +17,10 @@ target_lessons:
 source_lessons:
 - name: What is machine learning?
   id: c1b81225-3f98-4306-bb1e-60a0f81afea3
-description: Pathway to get to the lesson(s) K-means clustering, Grid Search & K-fold
-  Cross Validation, Cross Entropy, Essential ML Concepts Review, Evaluation Metrics
-  - Classification, Evaluation Metrics - Regression, Maximum Likelihood Estimation
-  from the lesson(s) What is machine learning?
+- name: Numpy - Intro
+  id: ec6ee532-9e47-454a-99c5-7ed8a3ad1b92
+description: Learn about the fundamental concepts and techniques underpinning machine
+  learning
 lessons:
 - name: What is machine learning?
   id: c1b81225-3f98-4306-bb1e-60a0f81afea3
@@ -29,44 +28,6 @@ lessons:
   id: 89b7fb50-9de8-46a4-bf86-d54cf316b899
 - name: What is a model?
   id: 26aa580c-6acb-4359-8ba9-9c219996b409
-- name: What is Python?
-  id: 218220c1-a559-4ebc-b3d8-2fb10ff76302
-- name: Printing things in Python
-  id: 55b2eae1-aa8b-4243-b2df-0de2f02b073e
-- name: Variables
-  id: 25d1757b-66ee-4c5d-8489-adcc923fec0e
-- name: Booleans
-  id: f6bbf8c6-1eac-49e5-bd2f-03e2ae4f9e28
-- name: Control Flow
-  id: 34f017d8-c4c0-468c-bd43-bb2f1ed17683
-- name: What is the command line
-  id: cf55cfa3-05a2-4299-bd39-ba5acfc9df85
-- name: Running terminal commands
-  id: 7e0fc1d3-42ad-420f-ad7f-4e5b1359233d
-- name: File Manipulation
-  id: 643030bc-1395-4d7b-8c68-3c65b431d87a
-- name: Package managers
-  id: cecd59fb-f62a-4022-a540-480a0e96d8e0
-- name: Editing files with nano
-  id: 64953624-4a58-4ef8-9c25-854be430fc6b
-- name: Running Python files from the terminal
-  id: 1a9545ea-2616-4ef9-bedc-d1d0186c14b5
-- name: A tour of VSCode
-  id: f227e021-88bf-4cb6-97cf-73bd8a0fa612
-- name: The VSCode integrated terminal
-  id: bdf26d3b-1b8e-4b3e-bb90-cbca70df1512
-- name: Markdown
-  id: e233ba97-b6ac-4e78-bd32-ab5a76782212
-- name: Python files and Python Notebooks
-  id: a242009f-93a3-4d78-8035-f0eba05fbc82
-- name: How (and how not) to run Python files from VSCode
-  id: fb8268dd-2b60-46a8-833b-21f0b1263a4f
-- name: pip
-  id: 0746278f-b348-4cbc-97d7-2382bf7b8efb
-- name: conda
-  id: 523a31ca-c8a3-44a9-a599-17f66c89a6e8
-- name: Imports
-  id: 1e915112-889d-428b-905b-b8cf4bdce0bf
 - name: Numpy - Intro
   id: ec6ee532-9e47-454a-99c5-7ed8a3ad1b92
 - name: Numpy - Array Operations
